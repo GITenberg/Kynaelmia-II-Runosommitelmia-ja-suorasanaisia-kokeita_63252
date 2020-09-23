@@ -1,5 +1,8 @@
 _repo: Kynaelmia-II-Runosommitelmia-ja-suorasanaisia-kokeita_63252
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hemmo, Kaarlo
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25325
     wikipedia: https://fi.wikipedia.org/wiki/Kaarlo_Hemmo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63252#Kynaelmia-II-Runosommitelmia-ja-suorasanaisia-kokeita
 gutenberg_issued: '2020-09-20'
 gutenberg_type: Text
 identifiers:
